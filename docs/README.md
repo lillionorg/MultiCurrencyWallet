@@ -2,7 +2,7 @@
 ![Deploy to swaponline.github.io](https://github.com/swaponline/MultiCurrencyWallet/workflows/Deploy%20to%20swaponline.github.io/badge.svg)
 [![About SWAP token](https://img.shields.io/badge/ERC20-SWAP-green)](https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/SWAPTOKEN.md)
    
-## MultiCurrencyWallet
+## Lillion SWAP
       
 - 👛 Crypto wallet: BTC, ETН (ERC20), BSC (BEP20), Matic (+tokens), USDT, {your_token}...
 - 💵 Fiat gateway: USD, EUR, RUB, UAH... via itez.com
