@@ -8,34 +8,18 @@
 - 💵 Fiat gateway: USD, EUR, RUB, UAH... via itez.com
 - ⚛️ P2P exchange – atomic swaps
 - 💡 Open-source, client-side
-- 📦 Embeddable into your site!
-- Marketmaker extention https://chrome.google.com/webstore/detail/multicurrencywallet/oldojieloelkkfeacfinhcngmbkepnlm
   
 Live version here: 
-https://swaponline.io (mirror https://swaponline.github.io) . Testnet https://ropsten.swaponline.io/
+https://swap.lillion.org/ 
 <br> Binance  Smart Chin : https://bsc.swap.io/ . Testnet: https://bsc-testnet.swaponline.site/
-
-
-Looking for investment opportunity? Read about [ERC20:SWAP token](/docs/SWAPTOKEN.md) (target price $1)
 
 ### 1. Multi-currency wallet: your users can store Bitcoin and custom assets
 
 Add many assets to your wallet:
 
-<img src="https://gyazo.com/4ff1cb71c2ff4ff21c81c76092835eab">
-
-### 2. ERC20 token wallet
-
-<a href="https://mytoken.wpmix.net/">Wallet demo (custom asset "SWAP")</a>
-
-### 3. Secondary market (trading between users)
-
-<a href="https://swaponline.github.io/#/exchange/usdt-to-btc">Demo (orderbook)</a>
-
+![image](https://user-images.githubusercontent.com/82254885/134948629-20c09c13-df7e-476b-9ecc-472bcb315fd1.png)
 
 ## Open for integrations
-
-See the [list of our clients](/docs/CLIENTS.md)
 
 
 ## International
@@ -51,15 +35,8 @@ Supported languages:
 Work in progress to add more languages.
 
 
-## How to support the project?
-
-- Buy [SWAP token](/docs/SWAPTOKEN.md)
-- [Donate](/docs/DONATE.md)
-- _(the easiest)_ Star the project ⭐
-
-Developer? Start with [ONBOARDING](https://github.com/swaponline/MultiCurrencyWallet/blob/master/docs/ONBOARDING.md)
 
 ---
 
-Any questions [are welcome](https://t.me/swaponline)
+Any questions [are welcome](https://t.me/lillionorg)
 
