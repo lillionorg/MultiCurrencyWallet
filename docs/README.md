@@ -16,15 +16,13 @@ https://swaponline.io (mirror https://swaponline.github.io) . Testnet https://ro
 <br> Binance  Smart Chin : https://bsc.swap.io/ . Testnet: https://bsc-testnet.swaponline.site/
 
 
-No coding skills? Use :package: [WordPress plugin with admin panel](https://codecanyon.net/item/multicurrency-crypto-wallet-and-exchange-widgets-for-wordpress/23532064) :package: 
-
 Looking for investment opportunity? Read about [ERC20:SWAP token](/docs/SWAPTOKEN.md) (target price $1)
 
 ### 1. Multi-currency wallet: your users can store Bitcoin and custom assets
 
 Add many assets to your wallet:
 
-<img src="https://wallet.wpmix.net/codecanyon_description_3.jpg">
+<img src="https://gyazo.com/4ff1cb71c2ff4ff21c81c76092835eab">
 
 ### 2. ERC20 token wallet
 
@@ -33,18 +31,6 @@ Add many assets to your wallet:
 ### 3. Secondary market (trading between users)
 
 <a href="https://swaponline.github.io/#/exchange/usdt-to-btc">Demo (orderbook)</a>
-
-
-## Easy to use in your project
-
-- Install [WordPress plugin](https://codecanyon.net/item/multicurrency-crypto-wallet-and-exchange-widgets-for-wordpress/23532064)
-- Or make your own build following the [installation guide](/docs/INSTALLATION.md)
-
-
-## Customizable (images, colors, texts...)
-
-- Using [WordPress plugin](https://codecanyon.net/item/multicurrency-crypto-wallet-and-exchange-widgets-for-wordpress/23532064)? Сustomize right in the admin panel!
-- Using your own build? Follow the [customization guide](/docs/CUSTOMIZATION.md)
 
 
 ## Open for integrations
