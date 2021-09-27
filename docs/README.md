@@ -11,7 +11,6 @@
   
 Live version here: 
 https://swap.lillion.org/ 
-<br> Binance  Smart Chin : https://bsc.swap.io/ . Testnet: https://bsc-testnet.swaponline.site/
 
 ### 1. Multi-currency wallet: your users can store Bitcoin and custom assets
 
